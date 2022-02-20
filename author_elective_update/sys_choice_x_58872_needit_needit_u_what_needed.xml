@@ -31,9 +31,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>ded544ed87314110d2d152873cbb35b5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-20 11:49:23</sys_updated_on>
+            <sys_updated_on>2022-02-20 16:12:05</sys_updated_on>
             <value>hr1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -51,9 +51,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9ed544ed87314110d2d152873cbb35b8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-20 11:49:23</sys_updated_on>
+            <sys_updated_on>2022-02-20 16:12:08</sys_updated_on>
             <value>hr2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -151,10 +151,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>5ed544ed87314110d2d152873cbb35c3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-20 11:49:23</sys_updated_on>
-            <value>your_choice 1</value>
+            <sys_updated_on>2022-02-20 15:40:29</sys_updated_on>
+            <value>your_choice1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -171,10 +171,30 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>12d544ed87314110d2d152873cbb35c6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-02-20 15:40:35</sys_updated_on>
+            <value>your_choice2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-02-20 16:33:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04f6cd2187754110d2d152873cbb354f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-02-20 11:49:23</sys_updated_on>
-            <value>your_choice 2</value>
+            <sys_updated_on>2022-02-20 16:33:46</sys_updated_on>
+            <value>other</value>
         </sys_choice>
     </sys_choice>
 </record_update>
